@@ -5,3 +5,4 @@
 - Pair session 5
 - Pair session 6
 - Pair session 7
+- Pair session 8
