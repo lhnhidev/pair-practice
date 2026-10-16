@@ -10,3 +10,4 @@
 - Pair session 10
 - Pair session 11
 - Pair session 12
+- Pair session 13
