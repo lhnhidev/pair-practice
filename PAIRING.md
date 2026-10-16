@@ -4,3 +4,4 @@
 - Pair session 4
 - Pair session 5
 - Pair session 6
+- Pair session 7
