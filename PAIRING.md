@@ -8,3 +8,4 @@
 - Pair session 8
 - Pair session 9
 - Pair session 10
+- Pair session 11
