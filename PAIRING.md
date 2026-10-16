@@ -1,1 +1,2 @@
 - Pair session 1
+- Pair session 2
