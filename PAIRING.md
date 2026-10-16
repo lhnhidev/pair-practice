@@ -13,3 +13,4 @@
 - Pair session 13
 - Pair session 14
 - Pair session 15
+- Pair session 16
