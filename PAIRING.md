@@ -6,3 +6,4 @@
 - Pair session 6
 - Pair session 7
 - Pair session 8
+- Pair session 9
